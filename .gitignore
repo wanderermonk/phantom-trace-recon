@@ -27,3 +27,5 @@ build/
 *.key
 token
 .gitpublish_token
+# macOS metadata on external drives
+._*
